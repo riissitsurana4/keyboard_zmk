@@ -1,0 +1,11 @@
+file_format: "1"
+id: kb
+name: KB
+type: shield
+requires:
+  - nice_nano_v2
+
+features:
+  - keys
+  - encoder
+  - underglow
